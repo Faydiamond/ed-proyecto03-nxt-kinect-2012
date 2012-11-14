@@ -1,0 +1,9 @@
+C:\Users\Master Administrator\Desktop\LegoKinectV1.1(funcional)\LegoKinect\obj\x86\Release\ed-proyecto03-nxt-kinect-2012.csprojResolveAssemblyReference.cache
+C:\Users\Master Administrator\Desktop\LegoKinectV1.1(funcional)\LegoKinect\obj\x86\Release\MainWindow.baml
+C:\Users\Master Administrator\Desktop\LegoKinectV1.1(funcional)\LegoKinect\obj\x86\Release\MainWindow.g.cs
+C:\Users\Master Administrator\Desktop\LegoKinectV1.1(funcional)\LegoKinect\obj\x86\Release\App.g.cs
+C:\Users\Master Administrator\Desktop\LegoKinectV1.1(funcional)\LegoKinect\obj\x86\Release\LegoKinect_MarkupCompile.cache
+C:\Users\Master Administrator\Desktop\LegoKinectV1.1(funcional)\LegoKinect\obj\x86\Release\LegoKinect.g.resources
+C:\Users\Master Administrator\Desktop\LegoKinectV1.1(funcional)\LegoKinect\obj\x86\Release\WpfApplication1.Properties.Resources.resources
+C:\Users\Master Administrator\Desktop\LegoKinectV1.1(funcional)\LegoKinect\obj\x86\Release\ed-proyecto03-nxt-kinect-2012.csproj.GenerateResource.Cache
+C:\Users\Master Administrator\Desktop\LegoKinectV1.1(funcional)\LegoKinect\obj\x86\Release\LegoKinect.pdb
