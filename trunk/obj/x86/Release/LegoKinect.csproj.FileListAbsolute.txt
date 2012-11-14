@@ -1,0 +1,16 @@
+C:\Users\wap\Desktop\kinect\LegoKinect\LegoKinect\bin\Release\LegoKinect.exe
+C:\Users\wap\Desktop\kinect\LegoKinect\LegoKinect\bin\Release\LegoKinect.pdb
+C:\Users\wap\Desktop\kinect\LegoKinect\LegoKinect\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\wap\Desktop\kinect\LegoKinect\LegoKinect\obj\x86\Release\MainWindow.baml
+C:\Users\wap\Desktop\kinect\LegoKinect\LegoKinect\obj\x86\Release\MainWindow.g.cs
+C:\Users\wap\Desktop\kinect\LegoKinect\LegoKinect\obj\x86\Release\App.g.cs
+C:\Users\wap\Desktop\kinect\LegoKinect\LegoKinect\obj\x86\Release\LegoKinect_MarkupCompile.cache
+C:\Users\wap\Desktop\kinect\LegoKinect\LegoKinect\obj\x86\Release\LegoKinect.g.resources
+C:\Users\wap\Desktop\kinect\LegoKinect\LegoKinect\obj\x86\Release\WpfApplication1.Properties.Resources.resources
+C:\Users\wap\Desktop\kinect\LegoKinect\LegoKinect\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\wap\Desktop\kinect\LegoKinect\LegoKinect\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\wap\Desktop\kinect\LegoKinect\LegoKinect\obj\x86\Release\LegoKinect.exe
+C:\Users\wap\Desktop\kinect\LegoKinect\LegoKinect\obj\x86\Release\LegoKinect.pdb
+C:\Users\wap\Desktop\kinect\LegoKinect\LegoKinect\bin\Release\NxtNet.DesktopLib.dll
+C:\Users\wap\Desktop\kinect\LegoKinect\LegoKinect\bin\Release\NxtNet.DesktopLib.pdb
+C:\Users\wap\Desktop\kinect\LegoKinect\LegoKinect\bin\Release\NxtNet.DesktopLib.xml
