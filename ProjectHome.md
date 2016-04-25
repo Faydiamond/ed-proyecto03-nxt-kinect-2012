@@ -1,0 +1,1 @@
+Con el uso del robot Lego pueden derivarse proyectos como la exploración de sitios pequeños, donde los humanos no puedan acceder fácilmente, o proyectos más complejos como la desactivación de la energía eléctrica en caso de un incendio.
